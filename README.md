@@ -1,5 +1,6 @@
+<h1 >👋 Hi, I'm Elham! <br/> <a href="">🔍 Seeking for a Graduate Research Position</a></h1>
+<h2><a href=" ">📊I Love Data Analysis and Visualization </a></h2>
 
-<h1>👋 Hi, I'm Elham! <br/><a href="">I Love Data Analysis and Visualization</a></h1>
 
 
 <h2>🌟 Skills & Experties</h2>
@@ -29,7 +30,7 @@
   - <b> D </b>
   - <b> E </b>
 
-
+<h3>🚀Always eager to learn and collaborate on impactful projects!</h3>
 
 <h2> 🤳 Find me here:</h2>
 
