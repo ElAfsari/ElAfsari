@@ -1,4 +1,4 @@
-<h1 >👋 Hi, I'm Elham! <br/> <a href="">🔍 Seeking for a Graduate Research Position</a></h1>
+<h1 >👋 Hi, I'm Elham! <br/><a href="">🔍 Seeking for a Graduate Research Position</a></h1>
 <h2><a href=" ">📊I Love Data Analysis and Visualization </a></h2>
 
 
@@ -24,11 +24,14 @@
 
 <h2>📑 Certificates:</h2> 
 
-  - <b> A </b>
-  - <b> B </b>
-  - <b> C </b>
-  - <b> D </b>
-  - <b> E </b>
+  - <b> <a href="https://www.coursera.org/account/accomplishments/certificate/2KNRPKAP2KD4 ">  Data Science with Python </a> </b>
+  - <b> <a href="https://www.coursera.org/account/accomplishments/certificate/2KNRPKAP2KD4 ">  Introduction to Data Visualization </a> </b>
+  - <b> <a href="https://www.coursera.org/account/accomplishments/certificate/2KNRPKAP2KD4 ">  Neural Networks and Deep Learning </a></b>
+  - <b> <a href="https://www.coursera.org/account/accomplishments/certificate/2KNRPKAP2KD4 ">  Improving Deep Neural Networks </a> </b>
+  - <b> <a href="https://www.coursera.org/account/accomplishments/certificate/2KNRPKAP2KD4 ">  Python for Deep Learning: Build Neural Networks in Python </a></b>
+  - <b> <a href="https://www.coursera.org/account/accomplishments/certificate/2KNRPKAP2KD4 ">  Machine Learning From Basic to Advanced </a> </b>
+  - <b> <a href="https://www.coursera.org/account/accomplishments/certificate/2KNRPKAP2KD4 ">  Python Complete Course For Beginners </a> </b>
+
 
 <h3>🚀Always eager to learn and collaborate on impactful projects!</h3>
 
