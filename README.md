@@ -11,10 +11,6 @@
 - <b> Database Management</b>: SQL
 
 <h2>👨‍💻 Projects:</h2> 
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
- 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   
 - <b>Tableau</b>
   - <a href=" ">Human Resource Dashboard</a>
