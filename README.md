@@ -22,10 +22,13 @@
 
 
 <h2>📑 Certificates:</h2> 
-- <b> A</b>
-- <b> B</b>
-- <b> C</b>
-- <b> D</b>
+
+  - <b> A </b>
+  - <b> B </b>
+  - <b> C </b>
+  - <b> D </b>
+  - <b> E </b>
+
 
 
 <h2> 🤳 Find me here:</h2>
