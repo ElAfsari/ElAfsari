@@ -21,6 +21,12 @@
   - <a href=" ">UI/UX Design for a Pizza Store </a>
 
 
+<h2>📑 Certificates:</h2> 
+- <b> A</b>
+- <b> B</b>
+- <b> C</b>
+- <b> D</b>
+
 
 <h2> 🤳 Find me here:</h2>
 
