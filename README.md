@@ -24,8 +24,9 @@
 
 <h2>📑 Certificates:</h2> 
 
-  - <b> <a href="https://simpli-web.app.link/e/KrovtWlouMb ">  Data Science with Python </a> </b>
+  
   - <b> <a href="https://www.coursera.org/account/accomplishments/certificate/2KNRPKAP2KD4 ">  Introduction to Data Visualization </a> </b>
+  - <b> <a href="https://simpli-web.app.link/e/KrovtWlouMb ">  Data Science with Python </a> </b>
   - <b> <a href="https://www.coursera.org/account/accomplishments/certificate/2KNRPKAP2KD4 ">  Neural Networks and Deep Learning </a></b>
   - <b> <a href="https://www.coursera.org/account/accomplishments/certificate/2KNRPKAP2KD4 ">  Improving Deep Neural Networks </a> </b>
   - <b> <a href="https://www.coursera.org/account/accomplishments/certificate/2KNRPKAP2KD4 ">  Python for Deep Learning: Build Neural Networks in Python </a></b>
