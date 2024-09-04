@@ -7,7 +7,7 @@
 - <b>Tableau</b>
   - <a href="https://public.tableau.com/app/profile/elham.afsari/viz/HRDashboard_17249242094020/My-First-Tableau-Dashboard">Human Resource Dashboard</a>
 - <b>Python</b>
-  - <a href="https://colab.research.google.com/drive/12UonMNaE9Wli-SeIyUyctgqW6pPeZV6c#scrollTo=KDp9egbD0GfJ">Astronomicala Data Visualizations</a>
+  - <a href="https://colab.research.google.com/drive/12UonMNaE9Wli-SeIyUyctgqW6pPeZV6c#scrollTo=KDp9egbD0GfJ">Astronomical Data Visualizations</a>
   - <a href="https://www.dropbox.com/scl/fi/t4r7m7p7ntggarw4yck05/Coloring-Character.mp4?rlkey=km6loj5ozk1rz5k0akgk4n4n9&st=vkymo2va&dl=0">Character Coloring </a>
 - <b>Adobe XD</b>
   - <a href=" ">UI/UX Design for a Pizza Store </a>
