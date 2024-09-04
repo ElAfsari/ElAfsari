@@ -14,7 +14,7 @@
 <h2>👨‍💻 Projects:</h2> 
   
 - <b>Tableau</b>
-  - <a href=" ">Human Resource Dashboard</a>
+  - <a href="https://public.tableau.com/app/profile/elham.afsari/viz/HRDashboard_17249242094020/My-First-Tableau-Dashboard">Human Resource Dashboard</a>
 - <b>Python</b>
   - <a href="https://colab.research.google.com/drive/12UonMNaE9Wli-SeIyUyctgqW6pPeZV6c#scrollTo=KDp9egbD0GfJ">Astronomicala Data Visualizations</a>
   - <a href=" ">Character Coloring </a>
